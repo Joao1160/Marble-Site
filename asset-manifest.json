@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Marble-Site/static/css/main.3088bb04.css",
-    "main.js": "/Marble-Site/static/js/main.73ffa12d.js",
+    "main.js": "/Marble-Site/static/js/main.c329b2bc.js",
     "static/js/453.cfe18c1d.chunk.js": "/Marble-Site/static/js/453.cfe18c1d.chunk.js",
     "static/media/UI.png": "/Marble-Site/static/media/UI.439fb1042712782e3349.png",
     "static/media/image1.png": "/Marble-Site/static/media/image1.02fd5419689a64ede034.png",
@@ -26,11 +26,11 @@
     "static/media/image9.jpg": "/Marble-Site/static/media/image9.470a31b32820863b71bd.jpg",
     "index.html": "/Marble-Site/index.html",
     "main.3088bb04.css.map": "/Marble-Site/static/css/main.3088bb04.css.map",
-    "main.73ffa12d.js.map": "/Marble-Site/static/js/main.73ffa12d.js.map",
+    "main.c329b2bc.js.map": "/Marble-Site/static/js/main.c329b2bc.js.map",
     "453.cfe18c1d.chunk.js.map": "/Marble-Site/static/js/453.cfe18c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3088bb04.css",
-    "static/js/main.73ffa12d.js"
+    "static/js/main.c329b2bc.js"
   ]
 }
