@@ -27,9 +27,9 @@ const categories = [
   { img: image11, name: "Category 11" },
 ];
 
-const Category = () => {
+const Category = ({ categoryRef }) => {
   return (
-    <section className="category" id="category">
+    <section className="category" ref={categoryRef}>
       <div className="container">
         <div className="section-heading">
           <h2>view our products</h2>

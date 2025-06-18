@@ -5,7 +5,7 @@ import marble3 from "../images/marble3.jpg";
 import marble4 from "../images/marble4.png";
 import marble5 from "../images/marble5.png";
 
-const Landing = () => {
+const Landing = ({ scrollToCategory }) => {
   const images = [marble1, marble2, marble3, marble4, marble5];
 
   return (
@@ -14,7 +14,10 @@ const Landing = () => {
         <h1 className="landing-title">
           discover the beauty of <span>marble</span>
         </h1>
-        <a href="#category" className="explore-btn">Explore Marble Types</a>
+        
+        <button onClick={scrollToCategory} className="explore-btn">
+          Explore Marble Types
+        </button>
 
         <div className="seamless-slider">
           <div className="slider-track">
