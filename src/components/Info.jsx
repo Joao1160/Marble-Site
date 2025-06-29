@@ -37,7 +37,7 @@ const Info = () => {
                             <div className="icon">
                                 <FontAwesomeIcon icon={faMapMarkedAlt} />
                             </div>
-                            2767 sunrise street, jhones ave 102, new york, USA
+                            <p className="text-start">2767 sunrise street, jhones ave 102, new york, USA</p>
                         </li>
                         <li>
                             <div className="icon">
