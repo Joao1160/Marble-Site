@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Marble-Site/static/css/main.f0fa8e12.css",
+    "main.css": "/Marble-Site/static/css/main.40ad1eff.css",
     "main.js": "/Marble-Site/static/js/main.8a2dc97a.js",
     "static/js/453.96d983e5.chunk.js": "/Marble-Site/static/js/453.96d983e5.chunk.js",
     "static/media/UI.png": "/Marble-Site/static/media/UI.439fb1042712782e3349.png",
@@ -36,12 +36,12 @@
     "static/media/image11.jpg": "/Marble-Site/static/media/image11.fe7ec70783ef83551912.jpg",
     "static/media/image9.jpg": "/Marble-Site/static/media/image9.470a31b32820863b71bd.jpg",
     "index.html": "/Marble-Site/index.html",
-    "main.f0fa8e12.css.map": "/Marble-Site/static/css/main.f0fa8e12.css.map",
+    "main.40ad1eff.css.map": "/Marble-Site/static/css/main.40ad1eff.css.map",
     "main.8a2dc97a.js.map": "/Marble-Site/static/js/main.8a2dc97a.js.map",
     "453.96d983e5.chunk.js.map": "/Marble-Site/static/js/453.96d983e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0fa8e12.css",
+    "static/css/main.40ad1eff.css",
     "static/js/main.8a2dc97a.js"
   ]
 }
