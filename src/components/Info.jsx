@@ -13,24 +13,25 @@ import {
     faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import logo from "../images/Logo-White.png";
+import logo2 from "../images/newLogoWhite.png";
 
 const Info = () => {
     return (
         <div className="info">
             <div className="container">
-                <div class="about-us">
-                    <div class="logo">
-                        <img src={logo} alt="logo image" />
+                <div className="details">
+                    <div className="logo">
+                        <img src={logo2} alt="logo image" />
                     </div>
-                    <div class="desc">
+                    <div className="desc">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                         Accusantium quis sequi magnam accusamus mollitia neque ex ipsum
                         non asperiores pariatur modi deleniti eos
                     </div>
                 </div>
-                <div class="contact-info-links">
-                    <h3 class="headline">contact information</h3>
-                    <span class="short-line"></span>
+                <div className="contact-info-links">
+                    <h3 className="headline">contact information</h3>
+                    <span className="short-line"></span>
                     <ul>
                         <li>
                             <div className="icon">

@@ -5,6 +5,7 @@ import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import Info from "../components/Info";
 import React, { useRef } from "react";
+import AboutUs from "../components/AboutUs";
 
 
 const Home = () => {
@@ -17,9 +18,10 @@ const Home = () => {
     <>
       <Header />
       <Landing scrollToCategory={scrollToCategory} />
-      <Info />
+      <AboutUs/>
       <Category categoryRef={categoryRef} />
       <Contact />
+      <Info />
       <Footer />
     </>
   );

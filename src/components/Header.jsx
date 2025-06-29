@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import logo from "../images/Logo.png";
+import logo2 from "../images/newLogo.png";
 import "../css/style.css";
 import "../css/details.css";
 import "../css/normalize.css";
@@ -32,10 +33,11 @@ function Header() {
       <div className="container">
         <nav className="nav">
           <div className="logo">
-            <img src={logo} alt="logo image" />
+            <img src={logo2} alt="logo image" />
           </div>
           <div className="nav-links">
             <Link to="/">home</Link>
+           <a href="../catalog.pdf" download className="catalog-button">catalog </a>
             <FontAwesomeIcon icon={faMagnifyingGlass} className="search-icon" />
           </div>
         </nav>
