@@ -37,7 +37,7 @@ function Header() {
           </div>
           <div className="nav-links">
             <Link to="/">home</Link>
-           <a href="../catalog.pdf" download className="catalog-button">catalog </a>
+           <a href="/catalog.pdf" download className="catalog-button">catalog </a>
             <FontAwesomeIcon icon={faMagnifyingGlass} className="search-icon" />
           </div>
         </nav>
