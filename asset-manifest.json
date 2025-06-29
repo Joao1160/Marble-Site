@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Marble-Site/static/css/main.3088bb04.css",
-    "main.js": "/Marble-Site/static/js/main.c329b2bc.js",
-    "static/js/453.cfe18c1d.chunk.js": "/Marble-Site/static/js/453.cfe18c1d.chunk.js",
+    "main.css": "/Marble-Site/static/css/main.f0fa8e12.css",
+    "main.js": "/Marble-Site/static/js/main.b3f95474.js",
+    "static/js/453.96d983e5.chunk.js": "/Marble-Site/static/js/453.96d983e5.chunk.js",
     "static/media/UI.png": "/Marble-Site/static/media/UI.439fb1042712782e3349.png",
     "static/media/image1.png": "/Marble-Site/static/media/image1.02fd5419689a64ede034.png",
     "static/media/marble5.png": "/Marble-Site/static/media/marble5.70a7e9d3fa3c6659ad88.png",
@@ -12,25 +12,36 @@
     "static/media/image3.png": "/Marble-Site/static/media/image3.32b632cefcff781428ca.png",
     "static/media/image4.png": "/Marble-Site/static/media/image4.3d4c06416102e8f61a24.png",
     "static/media/image2.png": "/Marble-Site/static/media/image2.470c7c880551e2905456.png",
+    "static/media/Home2.jpg": "/Marble-Site/static/media/Home2.c7a50d774bbabcf4a620.jpg",
     "static/media/image7.png": "/Marble-Site/static/media/image7.b7276ce84ce19c0cb411.png",
     "static/media/image8.png": "/Marble-Site/static/media/image8.6279c72a9d2df3f210fc.png",
+    "static/media/newLogo.png": "/Marble-Site/static/media/newLogo.870ecff88a02d48e9336.png",
+    "static/media/newLogoWhite.png": "/Marble-Site/static/media/newLogoWhite.07c4adce3a7887808b24.png",
     "static/media/contact-willpaper.jpg": "/Marble-Site/static/media/contact-willpaper.1cbf5381412bdb21cf50.jpg",
+    "static/media/Home1.jpg": "/Marble-Site/static/media/Home1.52f7af7b7723d3a1585b.jpg",
+    "static/media/Home4.jpg": "/Marble-Site/static/media/Home4.81aafc27fe917847491c.jpg",
+    "static/media/Home3.jpg": "/Marble-Site/static/media/Home3.fd26e692026498fe5149.jpg",
+    "static/media/about-willpaper.jpg": "/Marble-Site/static/media/about-willpaper.b77dbcac9862d6ab282c.jpg",
     "static/media/Logo.png": "/Marble-Site/static/media/Logo.3eba9f38f59b50096a01.png",
+    "static/media/azur-lilac-back-1024x683.webp": "/Marble-Site/static/media/azur-lilac-back-1024x683.c152ef43b99e3260908e.webp",
     "static/media/Logo-White.png": "/Marble-Site/static/media/Logo-White.5e1dd5dce788b4f7ac8b.png",
+    "static/media/67011d89e8a31_Banner---Marble-Flooring-For-Home.webp": "/Marble-Site/static/media/67011d89e8a31_Banner---Marble-Flooring-For-Home.082f27866006bcdfd293.webp",
     "static/media/image10.jpg": "/Marble-Site/static/media/image10.03703e771fe4e647679e.jpg",
+    "static/media/WhatsApp Image 2025-06-29 at 00.58.19_74ae4481.jpg": "/Marble-Site/static/media/WhatsApp Image 2025-06-29 at 00.58.19_74ae4481.0238ed376dd70cc24284.jpg",
     "static/media/marble2.jpg": "/Marble-Site/static/media/marble2.93ce545975807be0ec4d.jpg",
     "static/media/marble3.jpg": "/Marble-Site/static/media/marble3.490493407a2fc65eca28.jpg",
+    "static/media/lilac-white-marble.webp": "/Marble-Site/static/media/lilac-white-marble.829cb228135549216929.webp",
     "static/media/WhatsApp Image 2025-06-13 at 19.34.55_0c1a897a.jpg": "/Marble-Site/static/media/WhatsApp Image 2025-06-13 at 19.34.55_0c1a897a.29e25c7971a7bec86821.jpg",
     "static/media/marble1.jpg": "/Marble-Site/static/media/marble1.5732e95086d044e10fff.jpg",
     "static/media/image11.jpg": "/Marble-Site/static/media/image11.fe7ec70783ef83551912.jpg",
     "static/media/image9.jpg": "/Marble-Site/static/media/image9.470a31b32820863b71bd.jpg",
     "index.html": "/Marble-Site/index.html",
-    "main.3088bb04.css.map": "/Marble-Site/static/css/main.3088bb04.css.map",
-    "main.c329b2bc.js.map": "/Marble-Site/static/js/main.c329b2bc.js.map",
-    "453.cfe18c1d.chunk.js.map": "/Marble-Site/static/js/453.cfe18c1d.chunk.js.map"
+    "main.f0fa8e12.css.map": "/Marble-Site/static/css/main.f0fa8e12.css.map",
+    "main.b3f95474.js.map": "/Marble-Site/static/js/main.b3f95474.js.map",
+    "453.96d983e5.chunk.js.map": "/Marble-Site/static/js/453.96d983e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3088bb04.css",
-    "static/js/main.c329b2bc.js"
+    "static/css/main.f0fa8e12.css",
+    "static/js/main.b3f95474.js"
   ]
 }
