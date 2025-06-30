@@ -11,8 +11,14 @@
     ],
     "mainImage": "images/image1.png",
     "gallery": [
-      { "title": "Close-up Veining", "path": "images/image2.png" },
-      { "title": "Bathroom Application", "path": "images/image3.png" }
+      {
+        "title": "Close-up Veining",
+        "path": "images/image2.png"
+      },
+      {
+        "title": "Bathroom Application",
+        "path": "images/image3.png"
+      }
     ]
   },
   {
@@ -27,9 +33,18 @@
     ],
     "mainImage": "images/image2.png",
     "gallery": [
-      { "title": "Kitchen Island", "path": "images/image3.png" },
-      { "title": "Veining Detail", "path": "images/image4.png" },
-      { "title": "Full Slab", "path": "images/image5.png" }
+      {
+        "title": "Kitchen Island",
+        "path": "images/image3.png"
+      },
+      {
+        "title": "Veining Detail",
+        "path": "images/image4.png"
+      },
+      {
+        "title": "Full Slab",
+        "path": "images/image5.png"
+      }
     ]
   },
   {
@@ -44,8 +59,14 @@
     ],
     "mainImage": "images/image3.png",
     "gallery": [
-      { "title": "Living Room Floor", "path": "images/image4.png" },
-      { "title": "Veining Detail", "path": "images/image5.png" }
+      {
+        "title": "Living Room Floor",
+        "path": "images/image4.png"
+      },
+      {
+        "title": "Veining Detail",
+        "path": "images/image5.png"
+      }
     ]
   },
   {
@@ -60,8 +81,14 @@
     ],
     "mainImage": "images/image4.png",
     "gallery": [
-      { "title": "Wall Accent", "path": "images/image5.png" },
-      { "title": "Polished Surface", "path": "images/image6.png" }
+      {
+        "title": "Wall Accent",
+        "path": "images/image5.png"
+      },
+      {
+        "title": "Polished Surface",
+        "path": "images/image6.png"
+      }
     ]
   },
   {
@@ -76,8 +103,14 @@
     ],
     "mainImage": "images/image5.png",
     "gallery": [
-      { "title": "Hallway View", "path": "images/image6.png" },
-      { "title": "Tabletop Finish", "path": "images/image7.png" }
+      {
+        "title": "Hallway View",
+        "path": "images/image6.png"
+      },
+      {
+        "title": "Tabletop Finish",
+        "path": "images/image7.png"
+      }
     ]
   },
   {
@@ -92,8 +125,14 @@
     ],
     "mainImage": "images/image6.png",
     "gallery": [
-      { "title": "Lobby Floor", "path": "images/image7.png" },
-      { "title": "Lobby Floor", "path": "images/image8.png" }
+      {
+        "title": "Lobby Floor",
+        "path": "images/image7.png"
+      },
+      {
+        "title": "Lobby Floor",
+        "path": "images/image8.png"
+      }
     ]
   },
   {
@@ -108,8 +147,14 @@
     ],
     "mainImage": "images/image7.png",
     "gallery": [
-      { "title": "Bathroom Sink", "path": "images/image8.png" },
-      { "title": "Wall Panel", "path": "images/image9.jpg" }
+      {
+        "title": "Bathroom Sink",
+        "path": "images/image8.png"
+      },
+      {
+        "title": "Wall Panel",
+        "path": "images/image9.jpg"
+      }
     ]
   },
   {
@@ -124,8 +169,14 @@
     ],
     "mainImage": "images/image8.png",
     "gallery": [
-      { "title": "Countertop Detail", "path": "images/image9.jpg" },
-      { "title": "Wall Feature", "path": "images/image10.jpg" }
+      {
+        "title": "Countertop Detail",
+        "path": "images/image9.jpg"
+      },
+      {
+        "title": "Wall Feature",
+        "path": "images/image10.jpg"
+      }
     ]
   },
   {
@@ -140,7 +191,10 @@
     ],
     "mainImage": "images/image9.jpg",
     "gallery": [
-      { "title": "Bathroom Wall", "path": "images/image10.jpg" }
+      {
+        "title": "Bathroom Wall",
+        "path": "images/image10.jpg"
+      }
     ]
   },
   {
@@ -153,10 +207,16 @@
       "Luxurious vibe",
       "Great for tabletops"
     ],
-    "mainImage": "images/image10.jpg",
+    "mainImage": "images/image11.jpg",
     "gallery": [
-      { "title": "Table Finish", "path": "images/image11.jpg" },
-      { "title": "Stair Detail", "path": "images/image1.png" }
+      {
+        "title": "Table Finish",
+        "path": "images/image10.jpg"
+      },
+      {
+        "title": "Stair Detail",
+        "path": "images/image1.png"
+      }
     ]
   }
 ]
