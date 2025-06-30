@@ -29,6 +29,7 @@
     z-index: 1000;
     transition: box-shadow 0.3s ease;
     padding: 10px 0;
+    margin-top: 50px;
 }
 
 .header.scrolled {
@@ -39,6 +40,51 @@
     padding: 0;
 }
 
+.contact-header{
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 50px;
+    padding:0;
+    line-height: 50px;
+}
+.contact-header .container{
+    padding: 0;
+}
+.contact-header .nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+.will-disappear {
+    display: block;
+}
+.contact-header .nav-links li:first-child{
+    color: var(--secondary-color);
+}
+.contact-header .nav-links li {
+   list-style: none;
+}
+.contact-header .nav-links-icon{
+    color: var(--secondary-color);
+    margin-right: 10px;
+}
+.contact-header .social-links .nav-links-icon:hover{
+    transform: scale(1.2);
+    filter: brightness(150%);
+}
+.contact-header li a , 
+.contact-header li span{
+    color: #666;
+    text-decoration: none;
+}
+.contact-header li a:hover{
+    text-decoration: underline;
+}
 .header .nav {
     display: flex;
     align-items: center;
@@ -71,13 +117,29 @@
 .search-icon {
     color: var(--secondary-color);
 }
+.hide-contact-header {
+  opacity: 0;
+  transition: all 0.8s ease-in-out;
 
+}
+.shrink-header {
+  padding: 10px 0;
+  margin: 0;
+  transition: all 0.5s ease-in-out;
+}
+
+@media (max-width: 990px) {
+ .will-disappear{
+    display: none;
+ }
+}
 @media (max-width: 580px) {
 
     .header .nav .logo {
         width: 120px;
     }
 
+    .contact-header .nav-links ,
     .header .nav {
         padding: 0 10px;
 
@@ -88,7 +150,7 @@
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 430px) {
 
     .header .nav .logo {
         width: 90px;
@@ -99,18 +161,15 @@
     }
 }
 
-/* Home Landing Start */
-/* .home-landing {
-    padding-top: 50px;
-    background-color: var(--main-color);
+@media (max-width: 350px) {
+
+
+    .header .nav .nav-links a {
+        font-size: 10px;
+    }
 }
 
-.home-landing .container {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding: var(--padding-y) 0;
-} */
+/* Home Landing Start */
 
 .slider .landing {
     position: absolute;
