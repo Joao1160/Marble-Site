@@ -1,4 +1,3 @@
-import React from "react";
 import Logo from "../images/newLogo.png";
 import "../css/aboutUs.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

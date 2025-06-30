@@ -4,7 +4,7 @@ import Category from "../components/Category";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import Info from "../components/Info";
-import React, { useRef } from "react";
+import { useRef } from "react";
 import AboutUs from "../components/AboutUs";
 
 
