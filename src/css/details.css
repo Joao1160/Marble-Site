@@ -211,7 +211,7 @@
     background-color: #fff;
     position: relative;
     overflow: hidden;
-    border: 2px solid var(--secondary-color);
+    /* border: 2px solid var(--secondary-color); */
     padding: 0;
 }
 
