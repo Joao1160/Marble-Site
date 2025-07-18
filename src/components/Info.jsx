@@ -23,9 +23,7 @@ const Info = () => {
                         <img src={logo2} alt="logo image" />
                     </div>
                     <div className="desc">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Accusantium quis sequi magnam accusamus mollitia neque ex ipsum
-                        non asperiores pariatur modi deleniti eos
+                        At Regalith Marble, we deliver excellence in every slab — from the classic elegance of Galala and Sinai Pearl to the rich tones of Imperial Bronze. We serve global markets with reliable logistics, consistent quality, and a deep understanding of the needs of professionals in the building and design industries.
                     </div>
                 </div>
                 <div className="contact-info-links">

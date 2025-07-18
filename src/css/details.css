@@ -251,7 +251,7 @@
 }
 
 .marbles .marbles-images .marble .text .title {
-    color: var(--third-color);
+    color: var(--secondary-color);
     text-transform: capitalize;
     font-weight: bold;
 }

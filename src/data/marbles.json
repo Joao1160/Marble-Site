@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Carrara Marble",
+    "name": "Sinia Pearl",
     "description": "A classic white marble with subtle gray veining, known for its elegance and use in sculpture and architecture.",
     "features": [
       "Elegant white appearance",
@@ -9,21 +9,61 @@
       "Easy to polish",
       "Widely available"
     ],
-    "mainImage": "images/image1.png",
+    "mainImage": "images/Material/SiniaPearl/sinia pearl hond tumbled 2.png",
     "gallery": [
       {
-        "title": "Close-up Veining",
-        "path": "images/image2.png"
+        "title": "Sinai pearl sand plased",
+        "path": "images/Material/SiniaPearl/Sinai pearl sand plased.png"
       },
       {
-        "title": "Bathroom Application",
-        "path": "images/image3.png"
+        "title": "sinia pear limestone brushed",
+        "path": "images/Material/SiniaPearl/sinia pear limestone brushed.png"
+      },
+      {
+        "title": "sinia pearl acid tumbled",
+        "path": "images/Material/SiniaPearl/sinia pearl acid tumbled.png"
+      },
+      {
+        "title": "sinia pearl hond tumbled",
+        "path": "images/Material/SiniaPearl/sinia pearl hond tumbled 1.png"
+      },
+      {
+        "title": "sinia pearl hond tumbled",
+        "path": "images/Material/SiniaPearl/sinia pearl hond tumbled 2.png"
+      },
+      {
+        "title": "Sinia pearl limeston Acid washing",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston Acid washing 1.png"
+      },
+      {
+        "title": "Sinia pearl limeston Acid washing",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston Acid washing 2.png"
+      },
+      {
+        "title": "Sinia pearl limeston Acide washing tumbled",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston Acide washing tumbled 1.png"
+      },
+      {
+        "title": "Sinia pearl limeston Acide washing tumbled",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston Acide washing tumbled 2.png"
+      },
+      {
+        "title": "Sinia pearl limeston Acide washing tumbled",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston Acide washing tumbled 3.png"
+      },
+      {
+        "title": "Sinia pearl limeston hond tambled",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston hond tambled 1.png"
+      },
+      {
+        "title": "Sinia pearl limeston hond tambled",
+        "path": "images/Material/SiniaPearl/Sinia pearl limeston hond tambled 2.png"
       }
     ]
   },
   {
     "id": 2,
-    "name": "Calacatta Marble",
+    "name": "Sinia Grey",
     "description": "Luxurious white marble with thick, bold veining that ranges from gold to gray, often used in high-end designs.",
     "features": [
       "Rich veining patterns",
@@ -31,25 +71,33 @@
       "High-end finish",
       "Durable surface"
     ],
-    "mainImage": "images/image2.png",
+    "mainImage": "images/Material/SiniaGrey/Sinia grey limeston hond tambled 1.png",
     "gallery": [
       {
-        "title": "Kitchen Island",
-        "path": "images/image3.png"
+        "title": "Sinia grey limeston hond tambled",
+        "path": "images/Material/SiniaGrey/Sinia grey limeston hond tambled 1.png"
       },
       {
-        "title": "Veining Detail",
-        "path": "images/image4.png"
+        "title": "Sinia grey limeston hond tambled",
+        "path": "images/Material/SiniaGrey/Sinia grey limeston hond tambled.png"
       },
       {
-        "title": "Full Slab",
-        "path": "images/image5.png"
+        "title": "Sinia grey limeston hond tambled",
+        "path": "images/Material/SiniaGrey/Sinia grey limeston hond tambled 2.png"
+      },
+      {
+        "title": "sinia grey hond acided",
+        "path": "images/Material/SiniaGrey/sinia grey hond acided.png"
+      },
+      {
+        "title": "sinia grey rock face tumbled",
+        "path": "images/Material/SiniaGrey/sinia grey rock face tumbled.png"
       }
     ]
   },
   {
     "id": 3,
-    "name": "Emperador Marble",
+    "name": "sunny minya",
     "description": "A deep brown marble with lighter veining, offering a warm and rich look ideal for classic interiors.",
     "features": [
       "Warm brown tones",
@@ -57,21 +105,37 @@
       "Polishes well",
       "Natural elegance"
     ],
-    "mainImage": "images/image3.png",
+    "mainImage": "images/Material/Sunny/sunny minya acid tumbled 1.png",
     "gallery": [
       {
-        "title": "Living Room Floor",
-        "path": "images/image4.png"
+        "title": "sunny minya acid tumbled",
+        "path": "images/Material/Sunny/sunny minya acid tumbled 1.png"
       },
       {
-        "title": "Veining Detail",
-        "path": "images/image5.png"
+        "title": "sunny minya acid tumbled",
+        "path": "images/Material/Sunny/sunny minya acid tumbled 2.png"
+      },
+      {
+        "title": "sunny minya acid tumbled",
+        "path": "images/Material/Sunny/sunny minya acid tumbled 3.png"
+      },
+      {
+        "title": "sunny minya hond tumled",
+        "path": "images/Material/Sunny/sunny minya hond tumled 1.png"
+      },
+      {
+        "title": "sunny minya hond tumled",
+        "path": "images/Material/Sunny/sunny minya hond tumled 2.png"
+      },
+      {
+        "title": "sunny minya hond tumled",
+        "path": "images/Material/Sunny/sunny minya hond tumled 3.png"
       }
     ]
   },
   {
     "id": 4,
-    "name": "Statuario Marble",
+    "name": "Galala",
     "description": "Premium white marble with dramatic dark gray veining, highly prized for its luxurious appearance.",
     "features": [
       "High-end appearance",
@@ -79,21 +143,37 @@
       "Perfect for feature walls",
       "Rare and exclusive"
     ],
-    "mainImage": "images/image4.png",
+    "mainImage": "images/Material/Galala/Galala raw.png",
     "gallery": [
       {
-        "title": "Wall Accent",
-        "path": "images/image5.png"
+        "title": "Galala brushed tumbled",
+        "path": "images/Material/Galala/Galala brushed tumbled.png"
       },
       {
-        "title": "Polished Surface",
-        "path": "images/image6.png"
+        "title": "Galala raw",
+        "path": "images/Material/Galala/Galala raw.png"
+      },
+      {
+        "title": "Galala sand blasted tumbled",
+        "path": "images/Material/Galala/Galala sand blasted tumbled 1.png"
+      },
+      {
+        "title": "Galala sand blasted tumbled",
+        "path": "images/Material/Galala/Galala sand blasted tumbled 2.png"
+      },
+      {
+        "title": "Galala tumbled",
+        "path": "images/Material/Galala/Galala tumbled.png"
+      },
+      {
+        "title": "Glalal limeston Acid washing tumbled",
+        "path": "images/Material/Galala/Glalal limeston Acid washing tumbled.png"
       }
     ]
   },
   {
     "id": 5,
-    "name": "Nero Marquina Marble",
+    "name": "Milly Brown",
     "description": "A rich black marble with sharp white veining, offering a bold contrast and modern elegance.",
     "features": [
       "Striking contrast",
@@ -101,21 +181,29 @@
       "Highly durable",
       "Perfect for flooring"
     ],
-    "mainImage": "images/image5.png",
+    "mainImage": "images/Material/MillyBrown/Milly brown sandplasted tumbled crazy paving.png",
     "gallery": [
       {
-        "title": "Hallway View",
-        "path": "images/image6.png"
+        "title": "Milly brown sandplasted tumbled crazy paving",
+        "path": "images/Material/MillyBrown/Milly brown sandplasted tumbled crazy paving.png"
       },
       {
-        "title": "Tabletop Finish",
-        "path": "images/image7.png"
+        "title": "Milly brown sandplasted tumbled",
+        "path": "images/Material/MillyBrown/Milly brown sandplasted tumbled.png"
+      },
+      {
+        "title": "milly brown acid tumpled",
+        "path": "images/Material/MillyBrown/milly brown acid tumpled.png"
+      },
+      {
+        "title": "Milly brown hond tumbled",
+        "path": "images/Material/MillyBrown/Milly brown hond tumbled.png"
       }
     ]
   },
   {
     "id": 6,
-    "name": "Crema Marfil Marble",
+    "name": "Imperial",
     "description": "Cream-colored marble with soft veining, commonly used in large flooring areas for a calm and uniform appearance.",
     "features": [
       "Soft cream tone",
@@ -123,21 +211,21 @@
       "Budget-friendly",
       "Popular for floors"
     ],
-    "mainImage": "images/image6.png",
+    "mainImage": "images/Material/Imperial/Imperial bronze hond tumbled 1.png",
     "gallery": [
       {
-        "title": "Lobby Floor",
-        "path": "images/image7.png"
+        "title": "Imperial bronze hond tumbled",
+        "path": "images/Material/Imperial/Imperial bronze hond tumbled 1.png"
       },
       {
-        "title": "Lobby Floor",
-        "path": "images/image8.png"
+        "title": "Imperial bronze hond tumbled",
+        "path": "images/Material/Imperial/Imperial bronze hond tumbled 2.png"
       }
     ]
   },
   {
     "id": 7,
-    "name": "Thassos Marble",
+    "name": "Silvia",
     "description": "Pure white marble from Greece, known for its crystal-like brightness and minimal veining.",
     "features": [
       "Pure white color",
@@ -145,77 +233,11 @@
       "Minimal veining",
       "Perfect for luxury spaces"
     ],
-    "mainImage": "images/image7.png",
+    "mainImage": "images/Material/Silvia/Silvia polished.png",
     "gallery": [
       {
-        "title": "Bathroom Sink",
-        "path": "images/image8.png"
-      },
-      {
-        "title": "Wall Panel",
-        "path": "images/image9.jpg"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Rainforest Green Marble",
-    "description": "A unique green marble with tree-like veining patterns, evoking a natural forest floor aesthetic.",
-    "features": [
-      "Natural green tones",
-      "Exotic look",
-      "Unique patterns",
-      "Great for accent pieces"
-    ],
-    "mainImage": "images/image8.png",
-    "gallery": [
-      {
-        "title": "Countertop Detail",
-        "path": "images/image9.jpg"
-      },
-      {
-        "title": "Wall Feature",
-        "path": "images/image10.jpg"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Pink Marble",
-    "description": "A soft pink marble with delicate veining, adding warmth and elegance to feminine or romantic designs.",
-    "features": [
-      "Soft pink hue",
-      "Gentle veining",
-      "Unique color palette",
-      "Ideal for bathrooms"
-    ],
-    "mainImage": "images/image9.jpg",
-    "gallery": [
-      {
-        "title": "Bathroom Wall",
-        "path": "images/image10.jpg"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Green Guatemala Marble",
-    "description": "A rich dark green marble with fine white veining, often used in statement pieces or luxury interiors.",
-    "features": [
-      "Dark green beauty",
-      "Subtle veining",
-      "Luxurious vibe",
-      "Great for tabletops"
-    ],
-    "mainImage": "images/image11.jpg",
-    "gallery": [
-      {
-        "title": "Table Finish",
-        "path": "images/image10.jpg"
-      },
-      {
-        "title": "Stair Detail",
-        "path": "images/image1.png"
+        "title": "Silvia polished",
+        "path": "images/Material/Silvia/Silvia polished.png"
       }
     ]
   }

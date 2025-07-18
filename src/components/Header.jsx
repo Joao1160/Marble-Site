@@ -24,7 +24,7 @@ function Header() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const isScrolled = window.scrollY > 50;
+      const isScrolled = window.scrollY > 5;
 
       // Hide first nav
       if (contactHeaderRef.current) {
@@ -91,7 +91,7 @@ function Header() {
             <div className="nav-links">
               <Link to="/">home</Link>
               <Link to="/products">products</Link>
-              <a href="/Marble-Site/catalog.pdf" download className="catalog-button">catalog</a>
+              <a href="/Regalith-Marble/catalog.pdf" download className="catalog-button">catalog</a>
               <FontAwesomeIcon icon={faMagnifyingGlass} className="search-icon" />
             </div>
           </nav>
