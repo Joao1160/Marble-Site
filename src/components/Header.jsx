@@ -91,7 +91,7 @@ function Header() {
             <div className="nav-links">
               <Link to="/">home</Link>
               <Link to="/products">products</Link>
-              <a href="/Regalith-Marble/catalog.pdf" download className="catalog-button">catalog</a>
+              <a href="/catalog.pdf" download className="catalog-button">catalog</a>
               <FontAwesomeIcon icon={faMagnifyingGlass} className="search-icon" />
             </div>
           </nav>
