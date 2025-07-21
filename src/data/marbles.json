@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": "Sinia Pearl",
-    "description": "A classic white marble with subtle gray veining, known for its elegance and use in sculpture and architecture.",
+    "description": "Soft white marble with delicate gray veining, quarried in Sinai.",
     "features": [
-      "Elegant white appearance",
-      "Fine gray veining",
-      "Easy to polish",
-      "Widely available"
+      "Subtle, elegant veining",
+      "Brightens spaces naturally",
+      "Low porosity (stain-resistant)",
+      "Modern and minimalist appeal"
     ],
     "mainImage": "images/Material/SiniaPearl/sinia pearl hond tumbled 2.png",
     "gallery": [
@@ -64,7 +64,7 @@
   {
     "id": 2,
     "name": "Sinia Grey",
-    "description": "Luxurious white marble with thick, bold veining that ranges from gold to gray, often used in high-end designs.",
+    "description": "Luxurious white marble with bold gold-to-gray veining. ",
     "features": [
       "Rich veining patterns",
       "Luxurious aesthetic",
@@ -98,12 +98,12 @@
   {
     "id": 3,
     "name": "sunny minya",
-    "description": "A deep brown marble with lighter veining, offering a warm and rich look ideal for classic interiors.",
+    "description": "Striking golden-yellow marble with dramatic dark veining.",
     "features": [
-      "Warm brown tones",
-      "Good for interiors",
-      "Polishes well",
-      "Natural elegance"
+      "Luxurious metallic sheen",
+      "Bold, high-contrast patterns",
+      "Heat-resistant surface",
+      "Perfect for statement pieces (e.g., waterfall islands)"
     ],
     "mainImage": "images/Material/Sunny/sunny minya acid tumbled 1.png",
     "gallery": [
@@ -136,12 +136,12 @@
   {
     "id": 4,
     "name": "Galala",
-    "description": "Premium white marble with dramatic dark gray veining, highly prized for its luxurious appearance.",
+    "description": "Elegant beige or cream marble with subtle veins, sourced from Galala Mountain.",
     "features": [
-      "High-end appearance",
-      "Striking veining",
-      "Perfect for feature walls",
-      "Rare and exclusive"
+      "Smooth, uniform texture",
+      "Light-reflective finish",
+      "Resistant to wear and tear",
+      "Ideal for floors, countertops, and wall cladding"
     ],
     "mainImage": "images/Material/Galala/Galala raw.png",
     "gallery": [
@@ -174,12 +174,12 @@
   {
     "id": 5,
     "name": "Milly Brown",
-    "description": "A rich black marble with sharp white veining, offering a bold contrast and modern elegance.",
+    "description": "Warm brown marble with creamy swirls and minimal veining.",
     "features": [
-      "Striking contrast",
-      "Modern look",
-      "Highly durable",
-      "Perfect for flooring"
+      "Cohesive, muted palette ",
+      "Matte or honed finish options",
+      "Ideal for rustic-contemporary blends",
+      "Durable for high-traffic areas"
     ],
     "mainImage": "images/Material/MillyBrown/milly brown acid tumpled.png",
     "gallery": [
@@ -204,12 +204,12 @@
   {
     "id": 6,
     "name": "Imperial",
-    "description": "Cream-colored marble with soft veining, commonly used in large flooring areas for a calm and uniform appearance.",
+    "description": " Deep brown marble with gold and white veins, exuding opulence.",
     "features": [
-      "Soft cream tone",
-      "Uniform texture",
-      "Budget-friendly",
-      "Popular for floors"
+      "Rich, earthy tones",
+      "High-gloss polish option",
+      "Suitable for grand entrances",
+      "Pairs well with metallic accentss"
     ],
     "mainImage": "images/Material/Imperial/Imperial bronze hond tumbled 1.png",
     "gallery": [
@@ -226,12 +226,12 @@
   {
     "id": 7,
     "name": "Silvia",
-    "description": "Pure white marble from Greece, known for its crystal-like brightness and minimal veining.",
+    "description": "White marble with gray/gold veins, resembling Italian Calacatta.",
     "features": [
-      "Pure white color",
-      "High reflectivity",
-      "Minimal veining",
-      "Perfect for luxury spaces"
+      "Premium polished finish",
+      "Timeless, versatile design",
+      "Scratch-resistant",
+      "Used in upscale interiors"
     ],
     "mainImage": "images/Material/Silvia/Silvia polished.png",
     "gallery": [
