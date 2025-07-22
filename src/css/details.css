@@ -25,6 +25,7 @@
     align-items: center;
     gap: 40px;
 }
+
 .about .container .about-desc {
     flex: 2;
 }
@@ -121,11 +122,12 @@
         justify-content: space-between;
     }
 
-.about .container .about-img img {
-    max-height: 300px;
-    transform: translate(-15px, -10px);
+    .about .container .about-img img {
+        max-height: 300px;
+        transform: translate(-15px, -10px);
+    }
 }
-}
+
 @media (max-width: 991px) {
     .about .container {
         flex-direction: column;
@@ -152,22 +154,29 @@
     .about .container .about-desc .features .feature i {
         margin-right: 30px;
     }
-    
-.about .container .about-img img {
-    max-height: 350px;
-    transform: translate(-15px, -10px);
-}
+
+    .about .container .about-img img {
+        max-height: 450px;
+        transform: translate(-15px, -10px);
+    }
 }
 
 @media (max-width: 500px) {
     .about .container .about-img img {
-        max-height: 200px;
+        max-height: 350px;
         transform: translate(-15px, -10px);
     }
 
     .about .container .about-img {
         background-color: var(--secondary-color);
         transform: translate(10px, 10px);
+    }
+
+}
+
+@media (max-width: 350px) {
+    .about .container .about-img img {
+        max-height: 250px;
     }
 
 }
@@ -204,7 +213,7 @@
 
 .marbles .marbles-images {
     display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 }
 
 .marbles .marbles-images .marble {
@@ -261,7 +270,7 @@
 
     .marbles .marbles-images {
         display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
 
 }
