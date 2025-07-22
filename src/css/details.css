@@ -118,12 +118,8 @@
 
     }
 
-    .about .container .about-desc .features .feature {
-        justify-content: space-between;
-    }
-
     .about .container .about-img img {
-        max-height: 300px;
+        max-height: 450px;
         transform: translate(-15px, -10px);
     }
 }
@@ -142,7 +138,7 @@
     }
 
     .about .container .about-desc .features .feature {
-        justify-content: space-between;
+        justify-content: start;
         gap: 10px;
     }
 

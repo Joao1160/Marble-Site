@@ -130,6 +130,9 @@
  .will-disappear{
     display: none;
  }
+ .contact-header .social-links a{
+    padding-right: 20px
+ }
 }
 @media (max-width: 580px) {
 
@@ -157,6 +160,9 @@
     .header .nav .nav-links a {
         font-size: 12px;
     }
+    .contact-header .social-links a{
+    padding-right: 10px
+ }
 }
 
 @media (max-width: 350px) {

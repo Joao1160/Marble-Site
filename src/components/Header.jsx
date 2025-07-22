@@ -86,7 +86,7 @@ function Header() {
         <div className="container">
           <nav className="nav">
             <div className="logo">
-              <img src={logo2} alt="logo image" />
+              <Link to="/"><img src={logo2} alt="logo image" /></Link>
             </div>
             <div className="nav-links">
               <Link to="/">home</Link>
