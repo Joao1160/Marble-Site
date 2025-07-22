@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import "../css/style.css";
-import home1 from "../images/Home/1.png";
-import home2 from "../images/Home/2.png";
-import home3 from "../images/Home/3.png";
-import home4 from "../images/Home/4.png";
-import home5 from "../images/Home/5.png";
-import home6 from "../images/Home/6.png";
-import home7 from "../images/Home/7.png";
-import home8 from "../images/Home/8.png";
+import home1 from "../images/Home/1.webp";
+import home2 from "../images/Home/2.webp";
+import home3 from "../images/Home/3.webp";
+import home4 from "../images/Home/4.webp";
+import home5 from "../images/Home/5.webp";
+import home6 from "../images/Home/6.webp";
+import home7 from "../images/Home/7.webp";
+import home8 from "../images/Home/8.webp";
 
 const images = [home1, home2, home3 , home4 ,home5 , home6,home7, home8];
 
