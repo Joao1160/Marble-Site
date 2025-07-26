@@ -9,9 +9,9 @@ import home6 from "../images/Home/6.webp";
 import home7 from "../images/Home/7.webp";
 import home8 from "../images/Home/8.webp";
 
-const images = [home1, home2, home3 , home4 ,home5 , home6,home7, home8];
+const images = [home1, home2, home3, home4, home5, home6, home7, home8];
 
-const Landing = ({scrollToCategory}) => {
+const Landing = ({ scrollToCategory }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   // Auto slide every 2 seconds
@@ -34,14 +34,14 @@ const Landing = ({scrollToCategory}) => {
     <div className="slider fade-slider">
       <div className="landing">
         <h1 className="landing-title">
-          discover the beauty of <span>marble</span>
+          Discover the Beauty of <span>Marble</span> | Regalith Marble
         </h1>
-        
+
         <button onClick={scrollToCategory} className="explore-btn">
           Explore Marble Types
         </button>
       </div>
-     {images.map((img, index) => (
+      {images.map((img, index) => (
         <img
           key={index}
           src={img}
