@@ -4,8 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import {
     faFacebookF,
-    faTwitter,
-    faPinterest,
+    faLinkedin,
     faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -26,17 +25,14 @@ function AboutUs() {
                     </p>
 
                     <div className="social-links">
-                        <a href="http://">
+                        <a href="https://www.facebook.com/share/1D7AEUw9TE/" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faFacebookF} />
                         </a>
-                        <a href="http://">
-                            <FontAwesomeIcon icon={faTwitter} />
-                        </a>
-                        <a href="http://">
+                        <a href="https://www.instagram.com/regalithmarble" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faInstagram} />
                         </a>
-                        <a href="http://">
-                            <FontAwesomeIcon icon={faPinterest} />
+                        <a href="https://www.linkedin.com/company/regalith-marble" target="_blank" rel="noopener noreferrer">
+                            <FontAwesomeIcon icon={faLinkedin} />
                         </a>
                     </div>
 

@@ -16,14 +16,6 @@
         "path": "images/Material/SiniaPearl/Sinai pearl sand plased.webp"
       },
       {
-        "title": "sinia pear limestone brushed",
-        "path": "images/Material/SiniaPearl/sinia pear limestone brushed.webp"
-      },
-      {
-        "title": "sinia pearl acid tumbled",
-        "path": "images/Material/SiniaPearl/sinia pearl acid tumbled.webp"
-      },
-      {
         "title": "sinia pearl hond tumbled",
         "path": "images/Material/SiniaPearl/sinia pearl hond tumbled 1.webp"
       },
@@ -92,6 +84,10 @@
       {
         "title": "sinia grey rock face tumbled",
         "path": "images/Material/SiniaGrey/sinia grey rock face tumbled.webp"
+      },
+      {
+        "title": "sinia grey acid tumbled",
+        "path": "images/Material/SiniaGrey/sinia grey acid tumbled.webp"
       }
     ]
   },

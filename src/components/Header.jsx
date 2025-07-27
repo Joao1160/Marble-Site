@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
-import logo2 from "../images/NewLogo1.png";
+import logo from "../images/NewLogo1.png";
 import "../css/style.css";
 import "../css/details.css";
 import "../css/normalize.css";
@@ -8,13 +8,13 @@ import "../css/normalize.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 import {
-  faPhone,
   faEnvelope,
 } from "@fortawesome/free-solid-svg-icons";
 import {
   faFacebookF,
-  faPinterest,
   faInstagram,
+  faLinkedin,
+  faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 import { faClock } from "@fortawesome/free-regular-svg-icons";
 
@@ -56,26 +56,28 @@ function Header() {
           <nav className="nav-links">
             <li className="will-disappear">Got a question? Let's talk!</li>
             <li className="will-disappear">
-              <FontAwesomeIcon className="nav-links-icon" icon={faPhone} />
-              <a href="tel:+0123456789">+0123456789</a>
+              <FontAwesomeIcon className="nav-links-icon" icon={faWhatsapp} />
+              <a href="https://wa.me/201108169636" target="_blank" rel="noopener noreferrer">
+                +20 110 816 9636
+              </a>
             </li>
             <li className="will-disappear">
               <FontAwesomeIcon className="nav-links-icon" icon={faEnvelope} />
-              <a href="mailto:info@gemstonemarble.com">info@gemstonemarble.com</a>
+              <a href="mailto:info@regalithmarble.com" >info@regalithmarble.com</a>
             </li>
             <li>
               <FontAwesomeIcon className="nav-links-icon" icon={faClock} />
               <span>Sat - Thu : 8am - 7pm </span>
             </li>
             <li className="social-links">
-              <a href="http://">
+              <a href="https://www.facebook.com/share/1D7AEUw9TE/" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon className="nav-links-icon" icon={faFacebookF} />
               </a>
-              <a href="http://">
+              <a href="https://www.instagram.com/regalithmarble" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon className="nav-links-icon" icon={faInstagram} />
               </a>
-              <a href="http://">
-                <FontAwesomeIcon className="nav-links-icon" icon={faPinterest} />
+              <a href="https://www.linkedin.com/company/regalith-marble" target="_blank" rel="noopener noreferrer">
+                <FontAwesomeIcon className="nav-links-icon" icon={faLinkedin} />
               </a>
             </li>
           </nav>
@@ -86,7 +88,7 @@ function Header() {
         <div className="container">
           <nav className="nav">
             <div className="logo">
-              <Link to="/"><img src={logo2} alt="logo image" /></Link>
+              <Link to="/"><img src={logo} alt="Company logo" /></Link>
             </div>
             <div className="nav-links">
               <Link to="/">home</Link>

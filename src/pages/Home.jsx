@@ -6,6 +6,7 @@ import Footer from "../components/Footer";
 import Info from "../components/Info";
 import { useRef } from "react";
 import AboutUs from "../components/AboutUs";
+import ScrollToTopButton from "../components/ScrollToTopButton";
 
 
 const Home = () => {
@@ -23,6 +24,7 @@ const Home = () => {
       <Contact />
       <Info />
       <Footer />
+      <ScrollToTopButton/>
     </>
   );
 };

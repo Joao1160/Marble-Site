@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ProductDetails from "../components/ProductDetails";
 import data from "../data/marbles.json";
+import ScrollToTopButton from "../components/ScrollToTopButton";
 
 function Details() {
   const { id } = useParams();
@@ -15,6 +16,7 @@ function Details() {
       <Header />
       <ProductDetails marble={marble} />
       <Footer />
+      <ScrollToTopButton/>
     </>
   );
 }

@@ -57,6 +57,12 @@
     color: #fff;
 }
 
+.contact-us .container .contact-details li {
+    list-style: none;
+}
+.contact-us .container .contact-details ul {
+    padding: 0;
+}
 .contact-us .container .contact-details .phone .label,
 .contact-us .container .contact-details .email .label {
     font-size: 20px;
