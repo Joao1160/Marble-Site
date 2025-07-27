@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.78c9e333.css",
-    "main.js": "./static/js/main.92e55063.js",
+    "main.css": "./static/css/main.985d7ac3.css",
+    "main.js": "./static/js/main.ffa69bc1.js",
     "static/js/453.0a9972b8.chunk.js": "./static/js/453.0a9972b8.chunk.js",
     "static/media/catalog.pdf": "./static/media/catalog.46f47e1fcf2fb8f49a38.pdf",
     "static/media/8.webp": "./static/media/8.d6018d73c983a4d95323.webp",
     "static/media/3.webp": "./static/media/3.1ec95752ea52df1a9b28.webp",
     "static/media/7.webp": "./static/media/7.f2ca1e3782caac21d232.webp",
-    "static/media/sinia pearl acid tumbled.webp": "./static/media/sinia pearl acid tumbled.ba7d3447ae89a596c0b4.webp",
+    "static/media/sinia grey acid tumbled.webp": "./static/media/sinia grey acid tumbled.ba7d3447ae89a596c0b4.webp",
     "static/media/4.webp": "./static/media/4.a5196605f805ed731931.webp",
     "static/media/milly brown acid tumpled.webp": "./static/media/milly brown acid tumpled.469ed0cbcdf8c48ce70f.webp",
     "static/media/sinia grey rock face tumbled.webp": "./static/media/sinia grey rock face tumbled.5144b3413cf6d5db05b4.webp",
@@ -41,7 +41,6 @@
     "static/media/Sinia pearl limeston Acide washing tumbled 3.webp": "./static/media/Sinia pearl limeston Acide washing tumbled 3.a402591ba37c484aeaa5.webp",
     "static/media/Sinia pearl limeston Acid washing 1.webp": "./static/media/Sinia pearl limeston Acid washing 1.52d7a5bc018473336cc8.webp",
     "static/media/newnewLogo1.png": "./static/media/newnewLogo1.0389bc59d078b6187e4a.png",
-    "static/media/sinia pear limestone brushed.webp": "./static/media/sinia pear limestone brushed.b5b3de8e7d48ffb17853.webp",
     "static/media/Sinia pearl limeston Acide washing tumbled 1.webp": "./static/media/Sinia pearl limeston Acide washing tumbled 1.3ab03f4606105fd7272e.webp",
     "static/media/Milly brown sandplasted tumbled crazy paving.webp": "./static/media/Milly brown sandplasted tumbled crazy paving.cb19657b6c4e7fbaff14.webp",
     "static/media/Sinia pearl limeston Acide washing tumbled 2.webp": "./static/media/Sinia pearl limeston Acide washing tumbled 2.0576a0e2ec5800f305d3.webp",
@@ -58,12 +57,12 @@
     "static/media/Galala tumbled.webp": "./static/media/Galala tumbled.c40a2ce1b2eb661ba7e7.webp",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "./index.html",
-    "main.78c9e333.css.map": "./static/css/main.78c9e333.css.map",
-    "main.92e55063.js.map": "./static/js/main.92e55063.js.map",
+    "main.985d7ac3.css.map": "./static/css/main.985d7ac3.css.map",
+    "main.ffa69bc1.js.map": "./static/js/main.ffa69bc1.js.map",
     "453.0a9972b8.chunk.js.map": "./static/js/453.0a9972b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78c9e333.css",
-    "static/js/main.92e55063.js"
+    "static/css/main.985d7ac3.css",
+    "static/js/main.ffa69bc1.js"
   ]
 }
